@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/awesome-game/static/css/main.be5b2912.chunk.css",
+    "main.js": "/awesome-game/static/js/main.3f78ab5d.chunk.js",
+    "main.js.map": "/awesome-game/static/js/main.3f78ab5d.chunk.js.map",
+    "runtime-main.js": "/awesome-game/static/js/runtime-main.6d534bf9.js",
+    "runtime-main.js.map": "/awesome-game/static/js/runtime-main.6d534bf9.js.map",
+    "static/js/2.f08673a9.chunk.js": "/awesome-game/static/js/2.f08673a9.chunk.js",
+    "static/js/2.f08673a9.chunk.js.map": "/awesome-game/static/js/2.f08673a9.chunk.js.map",
+    "static/js/3.3e240205.chunk.js": "/awesome-game/static/js/3.3e240205.chunk.js",
+    "static/js/3.3e240205.chunk.js.map": "/awesome-game/static/js/3.3e240205.chunk.js.map",
+    "index.html": "/awesome-game/index.html",
+    "static/css/main.be5b2912.chunk.css.map": "/awesome-game/static/css/main.be5b2912.chunk.css.map",
+    "static/js/2.f08673a9.chunk.js.LICENSE.txt": "/awesome-game/static/js/2.f08673a9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/awesome-game/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d534bf9.js",
+    "static/js/2.f08673a9.chunk.js",
+    "static/css/main.be5b2912.chunk.css",
+    "static/js/main.3f78ab5d.chunk.js"
+  ]
+}
